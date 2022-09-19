@@ -6,7 +6,7 @@ delimitación-política-administrativa
 clima
 precipitaciones
 pisos-altitudinales
-cap
+sistemas-de-áreas-verdes
 parts
 footnotes-and-citations
 footnotes

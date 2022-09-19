@@ -3,7 +3,7 @@
     "path": "~/Municipio/Libro2/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "3697209535",
+    "hash": "253768773",
     "contents": "",
     "dirty": false,
     "created": 1663543930391.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "57,0",
-        "scrollLine": "50"
+        "cursorPosition": "8,0",
+        "scrollLine": "3"
     },
     "folds": "",
-    "lastKnownWriteTime": 1663547199,
+    "lastKnownWriteTime": 1663551209,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1663547199588,
+    "last_content_update": 1663551209597,
     "read_only": false,
     "read_only_alternatives": []
 }

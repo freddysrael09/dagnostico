@@ -6,7 +6,6 @@ site: bookdown::bookdown_site
 documentclass: book
 biblio-style: apalike
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   Este documento permite contar con información que ayudará a definir prioridades en el ámbito de la salud y sus determinantes y la toma de decisiones basada en conocimiento y evidencia. Este documento ha sido elaborado a partir de la recolección de información disponible tanto cuantitativa como cualitativa de las condiciones sociales de salud. Los resultados presentados corresponden a la última información disponible hasta el año 2022.
