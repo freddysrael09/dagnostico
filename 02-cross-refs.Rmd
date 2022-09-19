@@ -1,17 +1,10 @@
-
 # Quito y su Territorio
 
 La Provincia de Pichincha es una de las 24 provincias que conforman la República del Ecuador, se encuentra ubicada al norte del país, en la región geográfica conocida como Sierra, además registra una altitud de 2.816 m.s.n.m. La provincia limita al norte con Imbabura y Esmeraldas, al sur con Cotopaxi, al este con Sucumbíos y Napo y finalmente al oeste con Santo Domingo de los Tsáchilas.
 
 Por otro lado, la Provincia de Pichincha registra una población de 2´576.287 (dato tomado del censo de población y vivienda realizado en 2010) y posee una extensión territorial de 9.612 km2 donde se distribuyen los siguientes cantones con sus respectivas cabezas cantonales mencionados en el siguiente cuadro:
 
-```{r, echo=FALSE, fig.align="center"}
-library(knitr)
-
-knitr::include_graphics("_bookdown_files/_main_files/figure-html/Capture1.PNG")
-
-```
-
+![](images/Capture1.PNG){width="354"}
 
 
 En cuanto a su administración, la provincia alberga a la Ciudad de Quito (ciudad fundada el 6 de diciembre de 1534), la capital del Ecuador, actualmente es administrada por el Gobierno Autónomo Descentralizado de la Provincia de Pichincha, desde su capital Quito.
@@ -28,21 +21,12 @@ Se situada en la cordillera de los Andes, rodeada de doce volcanes, entre ellos 
 
 La ciudad de Quito limita al norte con la provincia de Imbabura, al sur con los cantones Rumiñahui y Mejía, al este con los cantones Pedro Moncayo, Cayambe y provincia del Napo y al oeste con los cantones Pedro Vicente Maldonado, Los Bancos y provincia de Santo Domingo de los Tsáchilas, representados en el siguiente mapa:
 
-```{r, echo=FALSE, fig.align="center"}
-
-knitr::include_graphics("_bookdown_files/_main_files/figure-html/Capture2.PNG")
-
-```
 
 A nivel político administrativo, la ciudad está dividida en 65 parroquias, de las cuales 32 son urbanas y 33 corresponden a parroquias rurales. Adicionalmente, se divide en nueve zonas administrativas, detalladas a continuación en la siguiente tabla:
 
 A continuación, se puede observar la distribución política administrativa a nivel parroquial según su administración zonal:
 
-```{r, echo=FALSE, fig.align="center"}
 
-knitr::include_graphics("_bookdown_files/_main_files/figure-html/Capture3.PNG")
-
-```
 
 ## Clima
 
@@ -52,11 +36,7 @@ La temperatura de la ciudad de Quito, registra un promedio de 11.7 °C, donde la
 
 En el siguiente mapa se pueden observar los rangos de temperatura (grados centígrados) promedio del Distrito Metropolitano de Quito:
 
-```{r, echo=FALSE, fig.align="center"}
 
-knitr::include_graphics("_bookdown_files/_main_files/figure-html/Capture4.PNG")
-
-```
 
 La entidad encargada de registrar el tiempo y clima para el Distrito Metropolitano de Quito y el Ecuador es el Instituto Nacional de Meteorología e Hidrología (INAMHI), el cual maneja los datos de las estaciones meteorológicas siendo las más importantes para el DMQ Amaguaña, Cotogchoa, Machachi, Alóag, Tambillo, Chillogallo y Cutuglagua.
 
@@ -66,15 +46,10 @@ En cuanto al clima, de acuerdo con la clasificación climática de Köppen-Geige
 
 En el mapa a continuación se muestran los rangos de precipitación promedio (en mm) del Distrito Metropolitano de Quito:
 
-```{r, echo=FALSE, fig.align="center"}
 
-knitr::include_graphics("_bookdown_files/_main_files/figure-html/Capture5.PNG")
 
-```
-
-## Pisos Altitudinales 
+## Pisos Altitudinales
 
 En cuanto al piso altitudinal, la ciudad de Quito, se encuentra entre los 2000 y 3000 metros de altura sobre el nivel del mar abarcando desde los valles hasta los puntos más altos de la urbe, de esta manera la ciudad encaja en un clima entre templado y frío que se caracteriza por vientos frecuentes en época lluviosa templada y en época seca con vientos fuertes, aire seco y cálido. De acuerdo con el Sistema Nacional de Información (SNI), el piso climático de la ciudad corresponde en concreto al Piso Templado Interandino y al Piso Subtropical Interandino, en este último además se identifica como Ecosistema Natural de la Región Andina a los valles interandinos.
 
 Debido a estas condiciones es que la temperatura media anual se encuentra alrededor de los 12°C, por lo que el ambiente es cómodo para el asentamiento urbano y el desarrollo de la ciudad de Quito.
-
