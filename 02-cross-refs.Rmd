@@ -4,8 +4,7 @@ La Provincia de Pichincha es una de las 24 provincias que conforman la Repúblic
 
 Por otro lado, la Provincia de Pichincha registra una población de 2´576.287 (dato tomado del censo de población y vivienda realizado en 2010) y posee una extensión territorial de 9.612 km2 donde se distribuyen los siguientes cantones con sus respectivas cabezas cantonales mencionados en el siguiente cuadro:
 
-![](images/Capture1.PNG){width="354"}
-
+<center>![](images/Capture1.PNG){width="460"}</center>
 
 En cuanto a su administración, la provincia alberga a la Ciudad de Quito (ciudad fundada el 6 de diciembre de 1534), la capital del Ecuador, actualmente es administrada por el Gobierno Autónomo Descentralizado de la Provincia de Pichincha, desde su capital Quito.
 
@@ -21,12 +20,13 @@ Se situada en la cordillera de los Andes, rodeada de doce volcanes, entre ellos 
 
 La ciudad de Quito limita al norte con la provincia de Imbabura, al sur con los cantones Rumiñahui y Mejía, al este con los cantones Pedro Moncayo, Cayambe y provincia del Napo y al oeste con los cantones Pedro Vicente Maldonado, Los Bancos y provincia de Santo Domingo de los Tsáchilas, representados en el siguiente mapa:
 
+<center>![](images/Capture2.png){width="460"}</center>
 
 A nivel político administrativo, la ciudad está dividida en 65 parroquias, de las cuales 32 son urbanas y 33 corresponden a parroquias rurales. Adicionalmente, se divide en nueve zonas administrativas, detalladas a continuación en la siguiente tabla:
 
 A continuación, se puede observar la distribución política administrativa a nivel parroquial según su administración zonal:
 
-
+<center>![](images/Capture3.png){width="460"}</center>
 
 ## Clima
 
@@ -36,7 +36,7 @@ La temperatura de la ciudad de Quito, registra un promedio de 11.7 °C, donde la
 
 En el siguiente mapa se pueden observar los rangos de temperatura (grados centígrados) promedio del Distrito Metropolitano de Quito:
 
-
+<center>![](images/Capture4.png){width="460"}</center>
 
 La entidad encargada de registrar el tiempo y clima para el Distrito Metropolitano de Quito y el Ecuador es el Instituto Nacional de Meteorología e Hidrología (INAMHI), el cual maneja los datos de las estaciones meteorológicas siendo las más importantes para el DMQ Amaguaña, Cotogchoa, Machachi, Alóag, Tambillo, Chillogallo y Cutuglagua.
 
@@ -46,7 +46,7 @@ En cuanto al clima, de acuerdo con la clasificación climática de Köppen-Geige
 
 En el mapa a continuación se muestran los rangos de precipitación promedio (en mm) del Distrito Metropolitano de Quito:
 
-
+<center>![](images/Capture5.png){width="460"}</center>
 
 ## Pisos Altitudinales
 
