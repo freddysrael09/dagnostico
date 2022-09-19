@@ -53,3 +53,5 @@ En el mapa a continuación se muestran los rangos de precipitación promedio (en
 En cuanto al piso altitudinal, la ciudad de Quito, se encuentra entre los 2000 y 3000 metros de altura sobre el nivel del mar abarcando desde los valles hasta los puntos más altos de la urbe, de esta manera la ciudad encaja en un clima entre templado y frío que se caracteriza por vientos frecuentes en época lluviosa templada y en época seca con vientos fuertes, aire seco y cálido. De acuerdo con el Sistema Nacional de Información (SNI), el piso climático de la ciudad corresponde en concreto al Piso Templado Interandino y al Piso Subtropical Interandino, en este último además se identifica como Ecosistema Natural de la Región Andina a los valles interandinos.
 
 Debido a estas condiciones es que la temperatura media anual se encuentra alrededor de los 12°C, por lo que el ambiente es cómodo para el asentamiento urbano y el desarrollo de la ciudad de Quito.
+
+## Cap
